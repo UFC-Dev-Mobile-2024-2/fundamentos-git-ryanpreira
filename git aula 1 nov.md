@@ -1,7 +1,7 @@
-## aula de git
+# aula de git
 
-# clonagem de repositório
-# criação de branch
-# alteração de branch
-# atualizar na nuvem
-# pull request
+clonagem de repositório<br>
+criação de branch<br>
+alteração de branch<br>
+atualizar na nuvem<br>
+pull request
